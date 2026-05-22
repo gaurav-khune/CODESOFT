@@ -6,7 +6,7 @@ This project is part of my CodSoft Internship.
 
 * Figma
 
-## 🔗 Prototype Link
+## 🔗 Design Link
 
 https://www.figma.com/design/WFobG9JpZVJiMMDvOFRtmW/Email-Template?node-id=0-1&t=xoP2D2hfXH6Rhl3s-1
 
