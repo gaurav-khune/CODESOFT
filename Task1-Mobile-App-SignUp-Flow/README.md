@@ -12,7 +12,7 @@ This project is part of my CodSoft Internship.
 
 * Figma
 
-## 🔗 Prototype Link
+## 🔗 Design Link
 
 https://www.figma.com/design/t17PUpgqPT3gY7zTp6gRvu/Mobile-App-Signup-Flow?node-id=0-1&t=Pz72d0dLXoSpVGZ1-1
 
