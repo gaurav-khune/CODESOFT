@@ -30,8 +30,8 @@ Interactive food details section
 User-friendly cart and profile screens
 
 📂 Files Included
-Splash Screen.png
-Home Screen.png
-Food Details Screen.png
-Cart Screen.png
+Splash Screen.png,
+Home Screen.png,
+Food Details Screen.png,
+Cart Screen.png,
 Profile Screen.png
